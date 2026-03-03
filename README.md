@@ -1,0 +1,1 @@
+/dev/random to text
